@@ -3,4 +3,12 @@
     .small-hidden {
         display: none;
     }
+    .modal-special {
+        display: flex;
+        flex-direction: column;
+        padding: 0;
+        height: 10rem;
+        width: auto;
+        text-align: center;
+    }
 }
