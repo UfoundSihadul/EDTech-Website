@@ -1,5 +1,5 @@
 
-@media only screen and (min-width: 0px) and (max-width: 769px) {
+@media only screen and (min-width: 0px) and (max-width: 768px) {
     .small-hidden {
         display: none;
     }
@@ -8,7 +8,6 @@
         flex-direction: column;
         padding: 0;
         height: 10rem;
-        width: auto;
         text-align: center;
     }
 }
